@@ -1,0 +1,6 @@
+DATE,PATIENT,ENCOUNTER,CATEGORY,CODE,DESCRIPTION,VALUE,UNITS,TYPE
+2020-01-01T09:00:00Z,p1,e1,laboratory,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,7.5,%,numeric
+2024-01-01T09:00:00Z,p1,e1,laboratory,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,6.8,%,numeric
+2023-01-01T09:00:00Z,p2,e4,laboratory,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,5.9,%,numeric
+2023-01-01T09:00:00Z,p2,e4,vital-signs,8302-2,Body Height,180,cm,numeric
+2024-02-01T09:00:00Z,p2,e4,survey,72166-2,Tobacco smoking status,Never smoked,,text

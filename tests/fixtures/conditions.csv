@@ -1,0 +1,8 @@
+START,STOP,PATIENT,ENCOUNTER,CODE,DESCRIPTION
+2010-01-01,,p1,e1,44054006,Diabetes mellitus type 2 (disorder)
+2015-01-01,,p1,e1,66383009,Gingivitis (disorder)
+2016-01-01,,p1,e1,59621000,Essential hypertension (disorder)
+2018-01-01,,p1,e1,59621000,Essential hypertension (disorder)
+2020-01-01,,p2,e4,714628002,Prediabetes (finding)
+2021-01-01,2021-03-01,p2,e5,66383009,Gingivitis (disorder)
+2022-01-01,,p3,e6,109570002,Primary dental caries (disorder)

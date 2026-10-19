@@ -1,0 +1,7 @@
+Id,START,STOP,PATIENT,ENCOUNTERCLASS,CODE,DESCRIPTION,TOTAL_CLAIM_COST,REASONCODE,REASONDESCRIPTION
+e1,2024-01-01T09:00:00Z,2024-01-01T09:30:00Z,p1,wellness,162673000,General examination of patient (procedure),100.00,,
+e2,2025-12-31T10:00:00Z,2025-12-31T10:30:00Z,p1,ambulatory,185345009,Encounter for symptom,80.00,103697008,Patient referral for dental care (procedure)
+e3,2023-05-05T22:00:00Z,2023-05-06T01:00:00Z,p1,emergency,50849002,Emergency room admission,900.00,,
+e4,2024-02-01T09:00:00Z,2024-02-01T09:30:00Z,p2,wellness,162673000,General examination of patient (procedure),100.00,,
+e5,2025-06-01T09:00:00Z,2025-06-01T09:30:00Z,p2,ambulatory,185345009,Encounter for symptom,60.00,66383009,Gingivitis (disorder)
+e6,2025-03-01T09:00:00Z,2025-03-01T09:30:00Z,p3,wellness,410620009,Well child visit (procedure),90.00,,

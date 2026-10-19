@@ -1,0 +1,5 @@
+age_group,patients,diabetic_patients,diabetes_pct
+0-17,22,0,0.0
+18-39,38,1,2.6
+40-64,38,4,10.5
+65+,10,3,30.0

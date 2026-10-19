@@ -1,0 +1,6 @@
+visit_bucket,patients,pct_of_patients,min_visits,max_visits
+2) 1-10 visits,3,2.8,2,10
+3) 11-25 visits,27,25.0,12,25
+4) 26-50 visits,45,41.7,26,50
+5) 51-100 visits,25,23.1,51,94
+6) 101+ visits,8,7.4,104,565

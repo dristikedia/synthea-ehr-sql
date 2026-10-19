@@ -1,0 +1,5 @@
+age_group,patients,patients_with_dental_encounter,pct_with_dental_encounter,dental_encounters
+0-17,22,18,81.8,67
+18-39,38,37,97.4,153
+40-64,38,37,97.4,212
+65+,10,10,100.0,121

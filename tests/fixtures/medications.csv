@@ -1,0 +1,5 @@
+START,STOP,PATIENT,ENCOUNTER,CODE,DESCRIPTION,BASE_COST,DISPENSES,TOTALCOST,REASONCODE,REASONDESCRIPTION
+2020-01-01T09:00:00Z,,p1,e1,860975,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,10.00,12,120.00,44054006,Diabetes mellitus type 2 (disorder)
+2021-01-01T09:00:00Z,,p1,e1,860975,24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,10.00,12,120.00,44054006,Diabetes mellitus type 2 (disorder)
+2022-01-01T09:00:00Z,,p1,e1,310965,Ibuprofen 200 MG Oral Tablet,1.00,1,1.00,,
+2022-01-01T09:00:00Z,,p2,e4,310965,Ibuprofen 200 MG Oral Tablet,1.00,1,1.00,,

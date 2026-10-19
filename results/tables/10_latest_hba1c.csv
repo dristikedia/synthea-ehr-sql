@@ -1,0 +1,3 @@
+patient_group,patients_tested,avg_latest_hba1c,at_or_above_6_5,between_5_7_and_6_4,below_4_0
+Diabetic,7,4.36,1,1,3
+Not diabetic,32,6.07,0,30,0

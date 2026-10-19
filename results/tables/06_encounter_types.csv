@@ -1,0 +1,11 @@
+encounter_class,encounters,patients,pct_of_encounters
+ambulatory,2939,106,52.8
+wellness,1262,108,22.7
+outpatient,759,101,13.6
+emergency,270,83,4.8
+urgentcare,195,35,3.5
+home,63,3,1.1
+inpatient,58,33,1.0
+snf,9,7,0.2
+hospice,8,8,0.1
+virtual,8,6,0.1
